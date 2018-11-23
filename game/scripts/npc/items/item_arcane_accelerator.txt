@@ -39,7 +39,7 @@
 		"ItemSellable"					"1"
 		"ItemDroppable"					"1"
 		
-		"ItemShopTags"					"cooldown;reduction"
+		"ItemShopTags"					"cooldown;reduction;intelligence;mana;regeneration;caster"
 		"ItemQuality"					"epic"
 		"ItemAliases"					"octarine core;arcane_accelerator"
 		"ItemDeclarations"				"DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
