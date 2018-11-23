@@ -45,7 +45,7 @@
 		"ItemDroppable"					"1"
 		
 		"ItemCost"						"1650"
-		"ItemShopTags"					"attackspeed"
+		"ItemShopTags"					"attackspeed;dps;consumable"
 		"ItemQuality"					"epic"
 		"ItemAliases"					"moon shard;aeon shard"
 		"ItemDeclarations"				"DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
