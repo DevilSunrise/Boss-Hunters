@@ -17,7 +17,7 @@
 		"ItemDroppable"					"1"
 		
 		"ItemCost"						"220"
-		"ItemShopTags"					"aggro;threat"
+		"ItemShopTags"					"aggro;threat;tank;taunt"
 		"ItemQuality"					"component"
 		"ItemAliases"					"amulet of aggression"
 		"ItemDeclarations"				"DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
