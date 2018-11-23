@@ -42,7 +42,7 @@
 		"ItemSellable"					"1"
 		"ItemDroppable"					"1"
 		
-		"ItemShopTags"					"strength;damage;bash;stun"
+		"ItemShopTags"					"strength;damage;bash;stun;disable"
 		"ItemQuality"					"epic"
 		"ItemAliases"					"skull basher;anvil"
 		"ItemDeclarations"				"DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
