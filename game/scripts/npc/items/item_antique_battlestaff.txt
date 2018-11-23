@@ -43,7 +43,7 @@
 		"ItemDroppable"					"1"
 		
 		"ItemCost"						"525"
-		"ItemShopTags"					"damage;mkb"
+		"ItemShopTags"					"damage;mkb;dps;accuracy"
 		"ItemQuality"					"epic"
 		"ItemAliases"					"mkb;monkey king bar"
 		"ItemDeclarations"				"DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
