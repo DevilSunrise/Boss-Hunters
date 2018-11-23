@@ -43,7 +43,7 @@
 		"ItemDroppable"					"1"
 		
 		"ItemCost"						"1650"
-		"ItemShopTags"					"mana"
+		"ItemShopTags"					"heal;dispel;purge"
 		"ItemQuality"					"epic"
 		"ItemAliases"					"mekansm;angelic guard"
 		"ItemDeclarations"				"DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
