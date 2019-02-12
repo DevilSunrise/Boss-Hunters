@@ -1,0 +1,72 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_death_prophet"
+	"Title"			"Recommended items for Death Prophet"
+	
+	"Items"
+	{	
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_sorcerers_staff"
+			
+			"item"	"item_ring_of_mana"
+		
+			"item"	"item_calming_skull"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{
+			
+			"item"	"item_dagger_of_escape"
+			
+			"item"	"item_warlocks_reliquary"
+			
+			"item"	"item_archmages_orb"
+			
+			"item"	"item_orb_of_essence
+
+			"item"	"item_focused_lens"
+			
+			"item"	"item_arcane_accelerator"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_warp_staff"
+			
+			"item"	"item_lifeweavers_clockwork"
+			
+			"item"	"item_borealis_cloak"
+			
+			"item"	"item_protection_sphere"
+			
+			"item"	"item_ferrum_ascensus"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_arcane_piercer"
+			
+			"item"	"item_lightningbottle"
+			
+			"item"	"item_trinity"
+			
+			"item"	"item_everbright_shield"
+			
+			"item"	"item_gauntlet_of_might"
+			
+			"item"	"item_blade_of_dominion"
+			
+			"item"	"item_frostfire_brand"
+			
+			"item"	"item_ghost_saber"
+		
+		}
+	}
+}

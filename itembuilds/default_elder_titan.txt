@@ -1,0 +1,66 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_elder_titan"
+	"Title"			"Recommended items for Elder Titan."
+	
+	"Items"
+	{	
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_pages_buckler"
+			
+			"item"	"item_crystal_of_life"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			
+			"item"	"item_elven_boots"
+			
+			"item"	"item_mithril_armor"
+			
+			"item"	"item_gem_of_inner_power"
+			
+			"item"	"item_hurricane_blade"
+			
+			"item"	"item_incandescance"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+		    
+			"item"  "item_gauntlet_of_might"
+			
+			"item"	"item_glacier_boots"
+            
+			"item"  "item_rapture"
+            
+			"item"  "item_armor_of_invasion"
+			
+			"item"	"item_borealis_cloak"
+			
+			"item"	"item_ultimate_scepter"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_presence_booster"
+			
+			"item"	"item_soothslayer"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_father_pipe"
+			
+			"item"	"item_mighty_timpani"
+			
+			"item"	"item_ogre_seal_club"
+			
+			"item"	"item_behemoths_heart"
+		
+		}
+	}
+}

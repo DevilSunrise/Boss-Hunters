@@ -1,0 +1,68 @@
+"itembuilds/dragon_knight.txt"
+{
+	"author"	" "
+	"hero"	"npc_dota_hero_dragon_knight"
+	"Title"	" "
+	
+	"Items"
+	{	
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_pages_buckler"
+			
+			"item"	"item_crystal_of_life"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			
+			"item"	"item_mithril_armor"
+			
+			"item"	"item_gem_of_inner_power"
+			
+			"item"	"item_fortress_shield"
+			
+			"item"	"item_valiant_locket"
+			
+			"item"	"item_plate_of_the_unbreakable"
+			
+			"item"	"item_hurricane_blade"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_rapture"
+			
+			"item"	"item_gauntlet_of_might"
+			
+			"item"	"item_royal_guardian"
+			
+			"item"	"item_everbright_shield"
+			
+			"item"	"item_presence_booster"
+			
+			"item"	"item_behemoths_heart"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_soothslayer"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_wrathbearers_robes"
+			
+			"item"	"item_armor_of_invasion"
+			
+			"item"	"item_borealis_cloak"
+			
+			"item"	"item_headchopper"
+		
+		}
+	}
+}

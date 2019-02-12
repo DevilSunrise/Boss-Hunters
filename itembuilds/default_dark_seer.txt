@@ -1,0 +1,64 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_dark_seer"
+	"Title"			"Recommended items for Dark Seer"
+	
+	"Items"
+	{	
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_war_drum"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			
+			"item"	"item_archmages_orb"
+			
+			"item"	"item_runed_artifact"
+			
+			"item"	"item_plate_of_the_unbreakable"
+			
+			"item"	"item_angelic_guard"
+			
+			"item"	"item_incandescance"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_lazarus_rags"
+			
+			"item"	"item_frostfire_brand"
+			
+			"item"	"item_lightningbottle"
+			
+			"item"	"item_iron_rose"
+			
+			"item"	"item_father_pipe"
+			
+			"item"	"item_gauntlet_of_might"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_armor_of_invasion"
+			
+			"item"	"item_borealis_cloak"
+			
+			"item"	"item_glacier_boots"
+			
+			"item"	"item_blade_of_dominion"
+			
+			"item"	"item_presence_booster"
+			
+			"item"	"item_ward_of_life"
+		
+		}
+	}
+}

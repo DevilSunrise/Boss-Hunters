@@ -1,0 +1,96 @@
+"itembuilds"
+
+{
+	
+	"author"		"Valve"
+	
+	"hero"			"npc_dota_hero_beastmaster"
+	
+	"Title"			"Recommended items for Beastmaster"
+	
+	
+	
+	"Items"
+	
+	{	
+		
+		"#DOTA_Item_Build_Starting_Items"
+		
+		{
+			
+			"item"	"item_calming_skull"
+			
+			"item"	"item_ring_of_mana"
+			
+			"item"	"item_elven_boots"
+		
+		}
+		
+		"#DOTA_Item_Build_Early_Game"
+		
+		{	
+		
+			"item"	"item_dagger_of_escape"
+			
+			"item"	"item_warlock_reliquary"
+
+			"item"	"item_war_drum"
+
+			"item"	"item_valiant_locket"
+
+			"item"	"item_orb_of_essence"
+
+			"item"	"item_plate_of_the_unbreakable"
+
+
+		}
+
+		"#DOTA_Item_Build_Core_Items"
+
+		{
+			
+			"item"	"item_keshas_booze_barrel"
+			
+			"item"	"item_echoing_tambourine"
+			
+			"item"	"item_borealis_cloak"
+			
+			"item"	"item_rising_salt"
+			
+			"item"	"item_gauntlet_of_might"
+			
+			"item"	"item_presence_booster"
+		
+		}
+		
+		"#DOTA_Item_Build_Luxury"
+		
+		{
+			
+			"item"	"item_ultimate_scepter"
+		
+			"item"	"item_armor_of_invasion"
+
+			"item"	"item_dark_ones_blessing"
+
+			"item"	"item_lifeweavers_clockwork"
+
+			"item"	"item_lightningbottle"
+
+			"item"	"item_iron_rose"
+
+			"item"	"item_father_pipe"
+			
+			"item"	"item_cloak_of_the_hunter"
+			
+			"item"	"item_inspiring_bongos"
+			
+			"item"	"item_conquerors_helm"
+			
+			"item"	"item_ferrum_ascensus"
+
+		}
+
+	}
+
+}

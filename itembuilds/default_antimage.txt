@@ -1,0 +1,87 @@
+"itembuilds"
+
+{
+    
+	"author"        "Valve"
+    
+	"hero"          "npc_dota_hero_antimage"
+    
+	"Title"         "Recommended items for Antimage"
+
+    
+	
+	"Items"
+    
+	{
+       
+	   "#DOTA_Item_Build_Starting_Items"
+		
+		{
+			
+			"item"	"item_gauntlet_of_alacrity"
+			
+			"item"	"item_crystal_of_life"
+			
+			"item"	"item_sanguine_mask"
+		
+		}
+		
+		"#DOTA_Item_Build_Early_Game"
+		
+		{	
+			
+			"item"	"item_breeze_amulet"
+			
+			"item"	"item_orb_of_haste"
+			
+			"item"	"item_blood_gods_mask"
+			
+			"item"	"item_mirrors_edge"
+			
+			"item"	"item_orb_of_vitality"
+			
+			"item"	"item_focused_lens"
+		
+		}
+		
+		"#DOTA_Item_Build_Core_Items"
+		
+		{
+			
+			"item"	"item_illusionits_charm"
+			
+			"item"	"item_blade_of_storm"
+			
+			"item"	"item_death_sentence"
+			
+			"item"	"item_headchopper"
+			
+			"item"	"item_penumbra"
+			
+		}
+		
+		"#DOTA_Item_Build_Luxury"
+		
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_soothslayer"
+			
+			"item"	"item_culling_greataxe"
+			
+			"item"	"item_blood_gods_mask_5"
+			
+			"item"	"item_lance_of_longinus"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_winters_breath"
+			
+			"item"	"item_antique_battlestaff"
+		
+		}
+    
+	}
+
+}

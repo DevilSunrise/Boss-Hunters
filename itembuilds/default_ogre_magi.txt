@@ -1,0 +1,68 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_ogre_magi"
+	"Title"			"Recommended items for Ogre Magi"
+	
+	"Items"
+	{	
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_elven_boots"
+			
+			"item"	"item_calming_skull"
+			
+			"item"	"item_ring_of_mana"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			
+			"item"	"item_archmages_orb"
+			
+			"item"	"item_war_drum"
+			
+			"item"	"item_warlocks_reliquary"
+			
+			"item"	"item_galactic_hammer"
+		
+			"item"	"item_focused_lens"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_lazarus_rags"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_echoing_tambourine"
+			
+			"item"	"item_galactic_hammer_5"
+		
+			"item"	"item_arcane_piercer"
+		
+			"item"	"item_lightningbottle"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_borealis_cloak"
+			
+			"item"	"item_rapture"
+			
+			"item"	"item_trinity"
+			
+			"item"	"item_keshas_booze_barrel"
+			
+			"item"	"item_ogre_seal_club"
+			
+			"item"	"item_lucifers_cage"
+		
+		}
+	}
+}

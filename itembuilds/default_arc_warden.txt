@@ -1,0 +1,87 @@
+"itembuilds"
+
+{
+	
+	"author"		"Valve"
+	
+	"hero"			"npc_dota_hero_arc_warden"
+	
+	"Title"			"Recommended items for Arc Warden"
+	
+	
+	
+	"Items"
+    
+	{
+     
+		"#DOTA_Item_Build_Starting_Items"
+		
+		{
+			
+			"item"	"item_ring_of_mana"
+			
+			"item"	"item_calming_skull"
+			
+			"item"	"item_elven_boots"
+		
+		}
+		
+		"#DOTA_Item_Build_Early_Game"
+		
+		{	
+			
+			"item"	"item_spell_refinery"
+			
+			"item"	"item_push_boots"
+			
+			"item"	"item_runed_artifact"
+			
+			"item"	"item_archmages_orb"
+		
+			"item"	"item_cultists_veil"
+		
+			"item"	"item_focused_lens"
+		
+		}
+		
+		"#DOTA_Item_Build_Core_Items"
+		
+		{
+			
+			"item"	"item_lightningbottle"
+			
+			"item"	"item_protection_sphere"
+			
+			"item"	"item_arcane_piercer"
+			
+			"item"	"item_trinity"
+		
+			"item"	"item_lifeweavers_clockwork"
+		
+		}
+		
+		"#DOTA_Item_Build_Luxury"
+		
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_lucys_ring"
+			
+			"item"	"item_galactic_hammer_5"
+			
+			"item"	"item_warp_staff"
+			
+			"item"	"item_borealis_cloak"
+			
+			"item"	"item_ghost_saber"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_gauntlet_of_the_void"
+		
+		}
+    
+	}
+
+}

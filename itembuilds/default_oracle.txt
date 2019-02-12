@@ -1,0 +1,70 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_oracle"
+	"Title"			"Recommended items for Oracle"
+	
+	"Items"
+	{	
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_elven_boots"
+			
+			"item"	"item_ring_of_mana"
+		
+			"item"	"item_ring_of_mana"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{
+			
+			"item"	"item_dagger_of_escape"
+			
+			"item"	"item_war_drum"
+			
+			"item"	"item_archmages_orb"
+		
+			"item"	"item_valiant_locket"
+			
+			"item"	"item_jar_of_souls"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_lazarus_rags"
+			
+			"item"	"item_father_pipe"
+			
+			"item"	"item_lucifers_cage"
+			
+			"item"	"item_keshas_booze_barrel"
+		
+			"item"	"item_echoing_tambourine"
+		
+			"item"	"item_warp_staff"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_lightningbottle"
+			
+			"item"	"item_dark_ones_blessing"
+			
+			"item"	"item_blade_of_dominion"
+			
+			"item"	"item_iron_rose"
+			
+			"item"	"item_inspiring_bongos"
+			
+			"item"	"item_gauntlet_of_might"
+			
+			"item"	"item_ghost_saber"
+		
+		}
+	}
+}

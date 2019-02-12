@@ -1,0 +1,85 @@
+"itembuilds"
+
+{
+	
+	"author"		"Valve"
+	
+	"hero"			"npc_dota_hero_bane"
+	
+	"Title"			"Recommended items for Bane"
+	
+	
+	
+	"Items"
+	
+	{	
+		
+		"#DOTA_Item_Build_Starting_Items"
+		
+		{
+			
+			"item"	"item_ring_of_mana"
+			
+			"item"	"item_calming_skull"
+	
+			"item"	"item_elven_boots"
+	
+		}
+
+		"#DOTA_Item_Build_Early_Game"
+		
+		{	
+			
+			"item"	"item_dagger_of_escape"
+			
+			"item"	"item_archmages_orb"	
+			
+			"item"	"item_warlocks_reliquary"
+		
+			"item"	"item_focused_lens"
+		
+			"item"	"item_galactic_hammer"
+		
+		}
+		
+		"#DOTA_Item_Build_Core_Items"
+		
+		{
+			
+			"item"	"item_lazarus_rags"
+			
+			"item"	"item_warp_staff"
+			
+			"item"	"item_arcane_piercer"
+			
+			"item"	"item_lightningbottle"
+		
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_galactic_hammer_5"
+		
+		}
+		
+		"#DOTA_Item_Build_Luxury"
+		
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_protection_sphere"
+			
+			"item"	"item_gauntlet_of_might"
+			
+			"item"	"item_lifeweavers_clockwork"
+			
+			"item"	"item_ghost_saber"
+			
+			"item"	"item_everbright_shield"
+			
+			"item"	"item_lucifers_cage"
+		
+		}
+	
+	}
+
+}

@@ -1,0 +1,68 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_obsidian_destroyer"
+	"Title"			"Recommended Items for Outworld Destroyer"
+	
+	"Items"
+	{	
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_calming_skull"
+			
+			"item"	"item_ring_of_mana"
+		
+			"item"	"item_elven_boots"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{
+			
+			"item"	"item_war_drum"
+			
+			"item"	"item_warlocks_reliquary"
+			
+			"item"	"item_force_boots"
+			
+			"item"	"item_dark_wand"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_trebuchet"
+			
+			"item"	"item_lucys_ring"
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_echoing_tambourine"
+			
+			"item"	"item_lightningbottle"
+			
+			"item"	"item_rising_salt"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_arcane_piercer"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_flashback"
+			
+			"item"	"item_warp_staff"
+			
+			"item"	"item_galactic_hammer_5"
+			
+			"item"	"item_borealis_cloak"
+			
+			"item"	"item_lifeweavers_clockwork"
+			
+			"item"	"item_trinity"
+		
+		}
+	}
+}

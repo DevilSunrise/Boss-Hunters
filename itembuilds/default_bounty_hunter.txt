@@ -1,0 +1,91 @@
+"itembuilds"
+
+{
+	
+	"author"		"Valve"
+	
+	"hero"			"npc_dota_hero_bounty_hunter"
+	
+	"Title"			"Recommended items for Bounty Hunter"
+	
+	
+	
+	"Items"
+	
+	{	
+		
+		"#DOTA_Item_Build_Starting_Items"
+		
+		{
+			
+			"item"	"item_ring_of_mana"
+			
+			"item"	"item_sorcerers_staff"
+			
+			"item"	"item_elven_boots"
+		
+		}
+		
+		"#DOTA_Item_Build_Early_Game"
+		
+		{
+			
+			"item"	"item_archmages_orb"
+			
+			"item"	"item_warlocks_reliquary"
+			
+			"item"	"item_valiant_locket"
+			
+			"item"	"item_focused_lens"
+			
+			"item"	"item_plate_of_the_unbreakable"
+			
+			"item"	"item_dark_wand"
+		
+		}
+		
+		"#DOTA_Item_Build_Core_Items"
+		
+		{
+			
+			"item"	"item_lazarus_rags"
+			
+			"item"	"item_rising_salt"
+			
+			"item"	"item_rapture"
+			
+			"item"	"item_arcane_piercer"
+			
+			"item"	"item_gauntlet_of_might"
+			
+			"item"	"item_dark_wand_5"
+			
+		}
+		
+		"#DOTA_Item_Build_Luxury"
+		
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_lightningbottle"
+			
+			"item"	"item_trinity"
+			
+			"item"	"item_lucys_ring"
+			
+			"item"	"item_blade_of_dominion"
+			
+			"item"	"item_galactic_hammer_5"
+			
+			"item"	"item_lucifers_cage"
+		
+			"item"	"item_borealis_cloak"
+		
+		}
+	
+	}
+
+}

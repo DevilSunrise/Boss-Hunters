@@ -1,0 +1,79 @@
+"itembuilds/bristleback.txt"
+
+{
+	
+	"author"	"Valve"
+	
+	"hero"	"npc_dota_hero_bristleback"
+	
+	"Title"	"Recommended items for Bristleback"
+	
+	"Items"
+	
+	{	
+		"#DOTA_Item_Build_Starting_Items"
+		
+		{
+			
+			"item"	"item_amulet_of_aggression"
+			
+			"item"	"item_pages_buckler"
+			
+			"item"	"item_ruby_ring"
+			
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+		
+			"item"	"item_mithril_armor"
+			
+			"item"	"item_penitent_mail"
+			
+			"item"	"item_fortress_shield"
+			
+			"item"	"item_gem_of_inner_power"
+			
+			"item"	"item_orb_of_renewal"
+			
+			"item"	"item_soul_vessel"
+			
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_royal_guardian"
+			
+			"item"	"item_gauntlet_of_might"
+			
+			"item"	"item_wrathbearers_robes"
+			
+			"item"	"item_lightning_bottle"
+			
+			"item"	"item_borealis_cloak"
+			
+			"item"	"item_conquerors_helm"
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_soothslayer"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_rapture"
+			
+			"item"	"item_armor_of_invasion"
+			
+			"item"	"item_presence_booster"
+			
+			"item"	"item_glacier_boots"
+			
+			"item"	"item_behemoths_heart"
+			
+			"item"	"item_ogre_seal_totem"
+			
+		}
+	}
+}

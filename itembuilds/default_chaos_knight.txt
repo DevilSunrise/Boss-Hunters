@@ -1,0 +1,85 @@
+"itembuilds"
+
+{
+	
+	"author"	"Valve"
+	
+	"hero"	"npc_dota_hero_chaos_knight"
+	
+	"Title"	"Recommended items for Chaos Knight"
+
+	
+	
+	"Items"
+	
+	{	
+		
+		"#DOTA_Item_Build_Starting_Items"
+		
+		{
+			
+			"item"	"item_gauntlet_of_alacrity"
+			
+			"item"	"item_gem_of_corruption"
+		
+		}
+		
+		"#DOTA_Item_Build_Early_Game"
+		
+		{	
+			
+			"item"	"item_war_drum"
+			
+			"item"	"item_mirrors_edge"
+			
+			"item"	"item_orb_of_vitality"
+			
+			"item"	"item_reaping_scythe"
+			
+			"item"	"item_memento"
+			
+			"item"	"item_orb_of_haste"
+		
+		}
+		
+		"#DOTA_Item_Build_Core_Items"
+		
+		{
+			
+			"item"	"item_illusionists_charm"
+			
+			"item"	"item_armor_of_invasion"
+			
+			"item"	"item_death_sentence"
+			
+			"item"	"item_soothslayer"
+		
+			"item"	"item_inspiring_bongos"
+		
+			"item"	"item_legionnaires_dualswords"
+		
+		}
+		
+		"#DOTA_Item_Build_Luxury"
+		
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_antique_battlestaff"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_spellslayers_dirk"
+			
+			"item"	"item_headchopper"
+			
+			"item"	"item_lance_of_longinus"
+			
+			"item"	"item_mighty_timpani"
+		
+		}
+	
+	}
+
+}

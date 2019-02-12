@@ -1,0 +1,69 @@
+ "itembuilds"
+{
+	"author"	"Valve"
+	"hero"	"npc_dota_hero_juggernaut"
+	"Title"	"Recommended items for Juggernaut"
+
+	"Items"
+    {
+       "#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_gauntlet_of_alacrity"
+			
+			"item"	"item_hunters_hatchet"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			
+			"item"	"item_iron_rod"
+			
+			"item"	"item_orb_of_haste"
+			
+			"item"	"item_titan_blade"
+		
+			"item"	"item_memento"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			"item"	"item_culling_greataxe"
+			
+			"item"	"item_legionnaires_dualswords"
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_blade_of_storm"
+			
+			"item"	"item_lance_of_longinus"
+			
+			"item"	"item_soothslayer"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_leechblade"
+			
+			"item"	"item_winters_breath"
+			
+			"item"	"item_death_sentence"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_voltas_greathammer"
+			
+			"item"	"item_thanatos"
+			
+			"item"	"item_illusionists_charm"
+			
+			"item"	"item_spellslayers_dirk"
+			
+			"item"	"item_trickster_blade"
+			
+			"item"	"item_antique_battlestaff"
+		
+		}
+    }
+}

@@ -1,0 +1,89 @@
+"itembuilds"
+
+{
+	
+	"author"		"Valve"
+	
+	"hero"			"npc_dota_hero_batrider"
+	
+	"Title"			"Recommended items for Batrider"
+	
+	
+	
+	"Items"
+	
+	{	
+		
+		"#DOTA_Item_Build_Starting_Items"
+		
+		{
+			
+			"item"	"item_ice_fang"
+			
+			"item"	"item_elven_boots"
+		
+		}
+		
+		"#DOTA_Item_Build_Early_Game"
+		
+		{	
+			
+			"item"	"item_warm_fire"
+			
+			"item"	"item_dagger_of_escape"
+			
+			"item"	"item_archmages_orb"
+			
+			"item"	"item_warlock_reliquary"
+		
+			"item"	"item_incandescance"
+		
+			"item"	"item_plate_of_the_unbreakable"
+		
+		}
+		
+		"#DOTA_Item_Build_Core_Items"
+		
+		{
+			
+			"item"	"item_warp_staff"
+			
+			"item"	"item_borealis_cloak"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_protection_sphere"
+			
+			"item"	"item_blade_of_dominion"
+			
+			"item"	"item_gauntlet_of_might"
+		
+		}
+		
+		"#DOTA_Item_Build_Luxury"
+		
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_lifeweavers_clockwork"
+			
+			"item"	"item_lightningbottle"
+			
+			"item"	"item_frostfire_brand"
+			
+			"item"	"item_trinity"
+			
+			"item"	"item_gauntlet_of_the_void"
+			
+			"item"	"item_wrathbearers_robes"
+			
+			"item"	"item_presence_booster"
+			
+			"item"	"item_rising_salt"
+		
+		}
+		
+	}
+
+}
