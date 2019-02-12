@@ -1,0 +1,68 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_ember_spirit"
+	"Title"			"Recommended items for Ember Spirit"
+	
+	"Items"
+    {
+       "#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_broadsword"
+			
+			"item"	"item_gem_of_corruption"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			
+			"item"	"item_dagger_of_escape"
+			
+			"item"	"item_lightningrod"
+			
+			"item"	"item_titan_blade"
+			
+			"item"	"item_reaping_scythe"
+			
+			"item"	"item_executioners_blade"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_culling_greataxe"
+			
+			"item"	"item_tricksters_blade"
+			
+			"item"	"item_guillotine"
+			
+			"item"	"item_voltas_greathammer"
+			
+			"item"	"item_armor_of_invasion"
+			
+			"item"	"item_lance_of_longinus"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_thanatos"
+			
+			"item"	"item_trinity"
+			
+			"item"	"item_blade_of_storm"
+		
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_boomstick"
+			
+			"item"	"item_antique_battlestaff"
+			
+			"item"	"item_winters_breath"
+		
+		}
+    }
+}

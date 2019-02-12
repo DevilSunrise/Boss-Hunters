@@ -1,0 +1,72 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_lion"
+	"Title"			"Recommended items for Lion"
+	
+	"Items"
+	{	
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_sorcerers_staff"
+			
+			"item"	"item_ring_of_mana"
+		
+			"item"	"item_dagger_of_escape"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{
+		
+			"item"	"item_warlocks_reliquary"
+			
+			"item"	"item_archmages_orb"
+			
+			"item"	"item_cultists_veil"
+		
+			"item"	"item_warp_staff"
+			
+			"item"	"item_crystalline_staff"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_lazarus_rags"
+			
+			"item"	"item_arcane_accelerator"
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_trinity"
+			
+			"item"	"item_ferrum_ascensus"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_arcane_piercer"
+			"
+			item"	"item_lightningbottle"
+			
+			"item"	"item_lifeweavers_clockwork"
+			
+			"item"	"item_focused_lens"
+			
+			"item"	"item_rising_salt"
+			
+			"item"	"item_echoing_tambourine"
+			
+			"item"	"item_lucifers_cage"
+		
+			"item"	"item_dark_wand_5"
+			
+			"item"	"item_galactic_hammer_5"
+			
+			"item"	"item_lucys_ring"
+		
+		}
+	}
+}

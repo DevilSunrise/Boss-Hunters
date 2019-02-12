@@ -1,0 +1,85 @@
+"itembuilds/test_drow_ranger.txt"
+
+{
+
+	"author"		"Valve"
+
+	"hero"			"npc_dota_hero_drow_ranger"
+
+	"Title"			"Recommended items for Drow Ranger"
+
+	
+
+	"Items"
+
+    {
+
+       "#DOTA_Item_Build_Starting_Items"
+
+		{
+
+			"item"	"item_broadsword"
+
+			"item"	"item_soldiers_pike"
+
+		}
+
+		"#DOTA_Item_Build_Early_Game"
+
+		{	
+
+			"item"	"item_force_boots"
+
+			"item"	"item_lightningrod"
+			
+			"item"	"item_siegebreaker"
+
+			"item"	"item_mirrors_edge"
+
+			"item"	"item_reaping_scythe"
+
+			"item"	"item_focused_lens"
+
+		}
+
+		"#DOTA_Item_Build_Core_Items"
+
+		{
+
+			"item"	"item_trebuchet"
+
+			"item"	"item_thanatos"
+
+			"item"	"item_voltas_greathammer"
+
+			"item"	"item_illusionists_charm"
+
+			"item"	"item_blade_of_storm"
+
+			"item"	"item_death_sentence"
+
+		}
+
+		"#DOTA_Item_Build_Luxury"
+
+		{
+
+			"item"	"item_ultimate_scepter"
+
+			"item"	"item_ferrum_ascensus"
+
+			"item"	"item_boomstick"
+
+			"item"	"item_antique_battlestaff"
+
+			"item"	"item_winters_breath"
+
+			"item"	"item_tricksters_blade"
+
+			"item"	"item_guillotine"
+
+		}
+
+    }
+
+}

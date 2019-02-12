@@ -1,0 +1,66 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_phantom_lancer"
+	"Title"			"Recommended items for Phantom Lancer"
+	
+	"Items"
+    {
+       "#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_gauntlet_of_alacrity"
+			
+			"item"	"item_iron_rod"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			
+			"item"	"item_ice_fang"
+			
+			"item"	"item_mirrors_edge"
+			
+			"item"	"item_orb_of_vitality"
+			
+			"item"	"item_spellslayers_dirk"
+			
+			"item"	"item_visionarys_cutlass"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_death_sentence"
+		
+			"item"	"item_illusionists_charm"
+		
+			"item"	"item_antique_battlestaff"
+			
+			"item"	"item_headchopper"
+		
+			"item"	"item_winters_breath"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_soothslayer"
+			
+			"item"	"item_behemoths_heart"
+			
+			"item"	"item_dark_ones_blessing"
+			
+			"item"	"item_blade_of_storm"
+		
+			"item"	"item_mighty_timpani"
+			
+			"item"	"item_inspiring_bongos"
+			
+			"item"	"item_armor_of_invasion"
+		
+		}
+    }
+}

@@ -1,0 +1,74 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_enchantress"
+	"Title"			"Recommended items for Enchantress"
+	
+	"Items"
+    {
+       "#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_elven_boots"
+			
+			"item"	"item_soldiers_pike"
+			
+			"item"	"item_hawks_feather"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			
+			"item"	"item_force_boots"
+			
+			"item"	"item_war_drum"
+			
+			"item"	"item_siegebreaker"
+			
+			"item"	"item_lightningrod"
+			
+			"item"	"item_warlocks_reliquary"
+			
+			"item"	"item_plate_of_the_unbreakable"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_trebuchet"
+			
+			"item"	"item_voltas_greathammer"
+			
+			"item"	"item_rising_salt"
+			
+			"item"	"item_mighty_timpani"
+			
+			"item"	"item_gauntlet_of_might"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_tricksters_blade"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_warp_staff"
+			
+			"item"	"item_guillotine"
+			
+			"item"	"item_headchopper"
+			
+			"item"	"item_wings_of_icarus"
+			
+			"item"	"item_arcane_piercer"
+			
+			"item"	"item_trinity"
+		
+			"item"	"item_lucifers_cage"
+			
+		}
+    }
+}

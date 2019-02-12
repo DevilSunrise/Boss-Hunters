@@ -1,0 +1,89 @@
+	"itembuilds"
+
+{
+	
+	"author"		"Valve"
+	
+	"hero"			"npc_dota_hero_clinkz"
+	
+	"Title"			"Recommended items for Clinkz"
+	
+	
+	
+	"Items"
+    
+	{
+     
+		"#DOTA_Item_Build_Starting_Items"
+		
+		{
+			
+			"item"	"item_gauntlet_of_alacrity"
+			
+			"item"	"item_gem_of_corruption"
+		
+		}
+		
+		"#DOTA_Item_Build_Early_Game"
+		
+		{	
+			
+			"item"	"item_force_boots"
+			
+			"item"	"item_reaping_scythe"
+			
+			"item"	"item_siegebreaker"
+			
+			"item"	"item_mirrors_edge"
+			
+			"item"	"item_visionarys_cutlass"
+		
+			"item"	"item_executioners_blade"
+		
+		}
+		
+		"#DOTA_Item_Build_Core_Items"
+		
+		{
+			
+			"item"	"item_thanatos"
+			
+			"item"	"item_illusionists_charm"
+			
+			"item"	"item_antique_battlestaff"
+			
+			"item"	"item_death_sentence"
+			
+			"item"	"item_trebuchet"
+			
+			"item"	"item_guillotine"
+		
+		}
+		
+		"#DOTA_Item_Build_Luxury"
+		
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_leechblade"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_lance_of_longinus"
+			
+			"item"	"item_boomstick"
+			
+			"item"	"item_winters_breath"
+			
+			"item"	"item_arcane_piercer"
+			
+			"item"	"item_spellslayers_dirk"
+			
+			"item"	"item_blade_of_storm"
+		
+		}
+    
+	}
+
+}

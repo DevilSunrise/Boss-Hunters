@@ -1,0 +1,89 @@
+"itembuilds"
+
+{
+
+	"author"		"Valve"
+
+	"hero"			"npc_dota_hero_pangolier"
+
+	"Title"			"Recommended items for Pangolier"
+
+	
+
+	"Items"
+
+	{	
+
+		"#DOTA_Item_Build_Starting_Items"
+
+		{
+
+			"item"	"item_iron_rod"
+			
+			"item"	"item_purging_stone"
+
+		}
+
+		"#DOTA_Item_Build_Early_Game"
+
+		{	
+
+			"item"	"item_iron_rod"
+			
+			"item"	"item_ice_fang"
+
+			"item"	"item_lightningrod"
+
+			"item"	"item_visionarys_cutlass"
+			
+			"item"	"item_spellslayers_dirk"
+
+		}
+
+		"#DOTA_Item_Build_Core_Items"
+
+		{
+
+			"item"	"item_antique_battlestaff"
+
+			"item"	"item_voltas_greathammer"
+
+			"item"	"item_headchopper"
+
+			"item"	"item_ferrum_ascensus"
+
+			"item"	"item_winters_breath"
+
+		}
+
+		"#DOTA_Item_Build_Luxury"
+
+		{
+
+			"item"	"item_ultimate_scepter"
+
+			"item"	"item_lance_of_longinus"
+
+			"item"	"item_blade_of_storm"
+
+			"item"	"item_culling_greataxe"
+
+			"item"	"item_armor_of_invasion"
+
+			"item"	"item_trinity"
+			
+			"item"	"item_boomstick"
+			
+			"item"	"item_thanatos"
+			
+			"item"	"item_gauntlet_of_the_void"
+			
+			"item"	"item_soothslayer"
+
+			"item"	"item_penumbra"
+
+		}
+
+	}
+
+}

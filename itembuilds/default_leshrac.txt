@@ -1,0 +1,68 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_leshrac"
+	"Title"			"Recommended Items for Leshrac"
+	
+	"Items"
+	{	
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_sorcerers_staff"
+			
+			"item"	"item_ring_of_mana"
+		
+			"item"	"item_calming_skull"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{
+			
+			"item"	"item_dagger_of_escape"
+			
+			"item"	"item_archmages_orb"
+			
+			"item"	"item_warlocks_reliquary"
+			
+			"item"	"item_cultists_veil"
+			
+			"item"	"item_soul_vessel"
+			
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_lazarus_rags"
+			
+			"item"	"item_warp_staff"
+			
+			"item"	"item_lifeweavers_clockwork"
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_trinity"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_lightningbottle"
+			
+			"item"	"item_borealis_cloak"
+			
+			"item"	"item_arcane_piercer"
+			
+			"item"	"item_gauntlet_of_might"
+			
+			"item"	"item_lucys_ring"
+			
+			"item"	"item_protection_sphere"
+			
+			"item"	"item_lucifers_cage"
+		
+		}
+	}
+}

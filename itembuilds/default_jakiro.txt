@@ -1,0 +1,66 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_jakiro"
+	"Title"			"Recommended items for Jakiro"
+	
+	"Items"
+	{	
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_sorcerers_staff"
+			
+			"item"	"item_ring_of_mana"
+		
+			"item"	"item_elven_boots"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{
+			
+			"item"	"item_war_drum"
+			
+			"item"	"item_archmages_orb"
+			
+			"item"	"item_cultists_veil"
+			
+			"item"	"item_arcane_accelerator"
+		
+			"item"	"item_crystalline_staff"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_lazarus_rags"
+			
+			"item"	"item_echoing_tambourine"
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_lifeweavers_clockwork"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_trinity"
+			
+			"item"	"item_lightningbottle"
+			
+			"item"	"item_flashback"
+			
+			"item"	"item_arcane_piercer"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_wings_of_icarus"
+			
+			"item"	"item_borealis_cloak"
+			
+			"item"	"item_lucifers_cage"
+		
+		}
+	}
+}

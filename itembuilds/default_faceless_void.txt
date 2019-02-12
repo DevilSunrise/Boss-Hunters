@@ -1,0 +1,74 @@
+ "itembuilds/faceless_void.txt"
+{
+	"author"" "
+	"hero""npc_dota_hero_faceless_void"
+	"Title""Epic_Boss_Fight"
+
+	"Items"
+    {
+       "#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_gauntlet_of_alacrity"
+			
+			"item"	"item_crystal_of_life"
+			
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			
+			"item"	"item_blood_gods_mask"
+			
+			"item"	"item_lightningrod"
+			
+			"item"	"item_mirrors_edge"
+			
+			"item"	"item_orb_of_haste"
+			
+			"item"	"item_shadow_blade"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+	
+			"item"	"item_voltas_greathammer"
+			
+			"item"	"item_illusionists_charm"
+			
+			"item"	"item_legionnaires_dualswords"
+			
+			"item"	"item_penumbra"
+			
+			"item"	"item_lance_of_longinus"
+			
+			"item"	"item_blood_gods_mask_5"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_soothslayer"
+			
+			"item"	"item_thanatos"
+			
+			"item"	"item_spellslayers_dirk"
+			
+			"item"	"item_culling_greataxe"
+			
+			"item"	"item_guillotine"
+			
+			"item"	"item_antique_battlestaff"
+			
+			"item"	"item_death_sentence"
+			
+			"item"	"item_trinity"
+			
+			"item"	"item_blade_of_storm"
+		
+		}
+    }
+}

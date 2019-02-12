@@ -1,0 +1,79 @@
+"itembuilds"
+
+{
+	
+	"author"		"Valve"
+	
+	"hero"			"npc_dota_hero_centaur"
+	
+	"Title"			"Recommended items for Centaur Warchief"
+	
+	
+	
+	"Items"
+	
+	{	
+		
+		"#DOTA_Item_Build_Starting_Items"
+		
+		{
+		
+			"item"	"item_dagger_of_escape"
+			
+			"item"	"item_mithril_armor"
+			
+		}
+		
+		"#DOTA_Item_Build_Early_Game"
+		
+		{
+		
+			"item"	"item_gem_of_inner_power"
+			
+			"item"	"item_orb_of_vitality"
+			
+			"item"	"item_penitent_mail"
+			
+			"item"	"item_hurricane_blade"
+			
+			"item"	"item_plate_of_the_unbreakable"
+			
+			"item"	"item_anvil"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_presence_booster"
+			
+			"item"	"item_rapture"
+			
+			"item"	"item_gauntlet_of_might"
+			
+			"item"	"item_wrathbearers_robes"
+			
+			"item"	"item_borealis_cloak"
+			
+			"item"	"item_behemoths_heart"
+			
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_soothslayer"
+			
+			"item"	"item_armor_of_invasion"
+			
+			"item"	"item_glacier_boots"
+			
+			"item"	"item_ogre_seal_totem"
+			
+			"item"	"item_mighty_timpani"
+			
+			"item"	"item_ferrum_ascensus"
+		
+		}
+	}
+}

@@ -1,0 +1,74 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_meepo"
+	"Title"			"Recommended items for Meepo"
+	
+	"Items"
+    {
+       "#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_elven_boots"
+			
+			"item"	"item_ice_fang"
+			
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			
+			"item"	"item_war_drum"
+			
+			"item"	"item_gem_of_inner_power"
+			
+			"item"	"item_angelic_guard"
+			
+			"item"	"item_plate_of_the_unbreakable"
+		
+			"item"	"item_dark_wand"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_lucys_ring"
+			
+			"item"	"item_gauntlet_of_might"
+			
+			"item"	"item_inspiring_bongos"
+			
+			"item"	"item_death_sentence"
+
+			"item"	"item_winters_breath"
+	
+			"item"	"item_ward_of_life"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_soothslayer"
+			
+			"item"	"item_behemoths_heart"
+		
+			"item"	"item_trickster_blade"
+		
+			"item"	"item_illusionists_charm"
+		
+			"item"	"item_blade_of_storm"
+		
+			"item"	"item_armor_of_invasion"
+			
+			"item"	"item_thanatos"
+			
+			"item"	"item_father_pipe"
+			
+			"item"	"item_dark_ones_blessing"
+		
+			"item"	"item_mighty_timpani"
+		
+		}
+    }
+}

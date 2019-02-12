@@ -1,0 +1,97 @@
+"itembuilds"
+
+{
+
+	"author"		"Valve"
+
+	"hero"			"npc_dota_hero_alchemist"
+
+	"Title"			"Recommended items for Alchemist"
+
+	
+
+	"Items"
+
+	{	
+
+		"#DOTA_Item_Build_Starting_Items"
+
+		{
+
+			"item"	"item_gauntlet_of_alacrity"
+
+			"item"	"item_dagger_of_escape"
+
+		}
+
+		"#DOTA_Item_Build_Early_Game"
+
+		{	
+
+			"item"	"item_mirrors_edge"
+
+			"item"	"item_blood_gods_mask"
+
+			"item"	"item_visionarys_cutlass"
+
+			"item"	"item_shadow_blade"
+
+			"item"	"item_ultimate_scepter"
+
+		}
+
+		"#DOTA_Item_Build_Core_Items"
+
+		{
+
+			"item"	"item_tricksters_blade"
+
+			"item"	"item_penumbra"
+
+			"item"	"item_headchopper"
+
+			"item"	"item_thanatos"
+
+			"item"	"item_antique_battlestaff"
+
+			"item"	"item_berserkers_pelt"
+
+		}
+
+		"#DOTA_Item_Build_Luxury"
+
+		{
+
+			"item"	"item_berserkers_pelt_5"
+
+			"item"	"item_blood_gods_mask_5"
+
+			"item"	"item_culling_greataxe"
+
+			"item"	"item_ferrum_ascensus"
+
+			"item"	"item_soothslayer"
+
+			"item"	"item_leechblade"
+
+			"item"	"item_illusionists_charm"
+
+			"item"	"item_lance_of_longinus"
+			
+			"item"	"item_armor_of_invasion"
+			
+			"item"	"item_blade_of_storm"
+
+			"item"	"item_ultimate_scepter"
+
+			"item"	"item_ultimate_scepter"
+
+			"item"	"item_ultimate_scepter"
+
+			"item"	"item_ultimate_scepter"
+
+		}
+
+	}
+
+}

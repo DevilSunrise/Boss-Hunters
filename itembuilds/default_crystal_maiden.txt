@@ -1,0 +1,80 @@
+"itembuilds"
+
+{
+	
+	"author"		"Valve"
+	
+	"hero"			"npc_dota_hero_crystal_maiden"
+	
+	"Title"			"Recommended items for Crystal Maiden"
+	
+	
+	
+	"Items"
+	
+	{	
+		
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_elven_boots"
+			
+			"item"	"item_ring_of_mana"
+			
+			"item"	"item_strange_trinket"
+			
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{
+
+			"item"	"item_dagger_of_escape"
+		
+			"item"	"item_archmages_orb"
+			
+			"item"	"item_jar_of_souls"
+			
+			"item"	"item_arcane accelerator"
+			
+			"item"	"item_orb_of_essence"
+			
+			"item"	"item_cultists_veil"
+			
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_warp_staff"
+			
+			"item"	"item_protection_sphere"
+			
+			"item"	"item_ultimate_scepter"		
+			
+			"item"	"item_lucifers_cage"
+			
+			"item"	"item_lifeweavers_clockwork"
+			
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_everbright_shield"
+			
+			"item"	"item_lightningbottle"
+			
+			"item"	"item_flashback"
+			
+			"item"	"item_arcane_piercer"
+			
+			"item"	"item_trinity"
+			
+			"item"	"item_echoing_tambourine"
+			
+			"item"	"item_ferrum_ascensus"
+		
+			"item"	"item_iron_rose"
+			
+			"item"	"item_lucys_ring"
+		
+		}
+	}
+}

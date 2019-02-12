@@ -1,0 +1,81 @@
+"itembuilds"
+
+{
+	
+	"author"		"Valve"
+	
+	"hero"			"npc_dota_hero_broodmother"
+	
+	"Title"			"Recommended items for Broodmother"
+	
+	
+	
+	"Items"
+    
+	{
+       
+	   "#DOTA_Item_Build_Starting_Items"
+		
+		{
+			
+			"item"	"item_gauntlet_of_alacrity"
+			
+			"item"	"item_elven_boots"
+			
+			"item"	"item_ring_of_mana"
+		
+		}
+		
+		"#DOTA_Item_Build_Early_Game"
+		
+		{	
+			
+			"item"	"item_war_drum"
+			
+			"item"	"item_mantle_of_the_fallen"
+			
+			"item"	"item_cloak_of_the_hunter"
+			
+			"item"	"item_focused_lens"
+		
+		}
+		
+		"#DOTA_Item_Build_Core_Items"
+		
+		{
+			
+			"item"	"item_dark_ones_blessing"
+			
+			"item"	"item_inspiring_bongos"
+			
+			"item"	"item_armor_of_invasion"
+			
+			"item"	"item_death_sentence"
+			
+			"item"	"item_ultimate_scepter"
+		
+		}
+		
+		"#DOTA_Item_Build_Luxury"
+		
+		{
+			
+			"item"	"item_father_pipe"
+			
+			"item"	"item_thanatos"
+			
+			"item"	"item_tricksters_blade"
+			
+			"item"	"item_illusionists_charm"
+			
+			"item"	"item_iron_rose"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_ward_of_life"
+
+		}
+
+    }
+
+}

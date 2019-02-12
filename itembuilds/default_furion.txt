@@ -1,0 +1,68 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_furion"
+	"Title"			"Recommended items for Nature's Prophet"
+	
+	"Items"
+    {
+       "#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_ring_of_mana"
+			
+			"item"	"item_elven_boots"
+			
+			"item"	"item_ring_of_mana"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			
+			"item"	"item_war_drum"
+			
+			"item"	"item_archmages_orb"
+			
+			"item"	"item_lightningrod"
+			
+			"item"	"item_focused_lens"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_lazarus_rags"
+			
+			"item"	"item_cloak_of_the_hunter"
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_essence_piercer"
+		
+			"item"	"item_armor_of_invasion"
+			
+			"item"	"item_trinity"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_mighty_timpani"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_iron_rose"
+			
+			"item"	"item_inspiring_bongos"
+			
+			"item"	"item_father_pipe"
+			
+			"item"	"item_dark_ones_blessing"
+			
+			"item"	"item_penumbra"
+			
+			"item"	"item_gauntlet_of_might"
+		
+		}
+    }
+}

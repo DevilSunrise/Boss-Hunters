@@ -1,0 +1,74 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_life_stealer"
+	"Title"			"Recommended items for Lifestealer"
+	
+	"Items"
+    {
+       "#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_gauntlet_of_alacrity"
+			
+			"item"	"item_iron_rod"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+		
+			"item"	"item_lightningrod"
+		
+			"item"	"item_ringing_rapier"
+			
+			"item"	"item_orb_of_haste"
+			
+			"item"	"item_berserkers_pelt"
+			
+			"item"	"item_focused_lens"
+
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_legionnaires_dualswords"
+			
+			"item"	"item_voltas_greathammer"
+			
+			"item"	"item_memento"
+		
+			"item"	"item_headchopper"
+		
+			"item"	"item_death_sentence"
+		
+			"item"	"item_berserkers_pelt_5"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_soothslayer"
+		
+			"item"	"item_ferrum_ascensus"
+		
+			"item"	"item_arcane_piercer"
+			
+			"item"	"item_gauntlet_of_might"
+			
+			"item"	"item_antique_battlestaff"
+			
+			"item"	"item_lance_of_longinus"
+			
+			"item"	"item_thanatos"
+			
+			"item"	"item_armor_of_invasion"
+		
+			"item"	"item_behemoths_heart"
+			
+			"item"	"item_penumbra"
+		
+		}
+    }
+}

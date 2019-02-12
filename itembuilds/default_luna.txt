@@ -1,0 +1,74 @@
+"itembuilds"
+{
+	"author"		"FsB"
+	"hero"			"npc_dota_hero_luna"
+	"Title"			"Recommended items for Luna"
+	
+	"Items"
+    {
+       "#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_gauntlet_of_alacrity"
+			
+			"item"	"item_sorcerers_staff"
+			
+			"item"	"item_sanguine_mask"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			
+			"item"	"item_war_drum"
+			
+			"item"	"item_blood_gods_mask"
+			
+			"item"	"item_warlocks_reliquary"
+			
+			"item"	"item_mirrors_edge"
+			
+			"item"	"item_lightningrod"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_echoing_tambourine"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_illusionists_charm"
+			
+			"item"	"item_armor_of_invasion"
+			
+			"item"	"item_voltas_greathammer"
+			
+			"item"	"item_blood_gods_mask_5"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_tricksters_blade"
+			
+			"item"	"item_winters_breath"
+			
+			"item"	"item_trinity"
+			
+			"item"	"item_trebuchet"
+			
+			"item"	"item_blade_of_storm"
+			
+			"item"	"item_headchopper"
+			
+			"item"	"item_antique_battlestaff"
+			
+			"item"	"item_lance_of_longinus"
+			
+			"item"	"item_boomstick"
+		
+		}
+    }
+}

@@ -1,0 +1,66 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_monkey_king"
+	"Title"			"Recommended items for Monkey King"
+	
+	"Items"
+    {
+       "#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_hunters_hatchet"
+			
+			"item"	"item_gauntlet_of_alacrity"
+			
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			"item"	"item_ice_fang"
+			
+			"item"	"item_ringing_rapier"
+			
+			"item"	"item_visionarys_cutlass"
+			
+			"item"	"item_reaping_scythe"
+		
+			"item"	"item_culling_greataxe"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_memento"
+			
+			"item"	"item_antique_battlestaff"
+			
+			"item"	"item_thanatos"
+			
+			"item"	"item_legionnaires_dualswords"
+			
+			"item"	"item_ultimate_scepter"
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_soothslayer"
+			
+			"item"	"item_winters_breath"
+			
+			"item"	"item_tricksters_blade"
+			
+			"item"	"item_illusionists_charm"
+			
+			"item"	"item_headchopper"
+			
+			"item"	"item_lance_of_longinus"
+			
+			"item"	"item_armor_of_invasion"
+			
+			"item"	"item_berserkers_pelt"
+			
+			"item"	"item_blood_gods_mask"
+			
+		}
+    }
+}

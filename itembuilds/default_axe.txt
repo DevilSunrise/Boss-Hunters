@@ -1,0 +1,89 @@
+"itembuilds"
+
+{
+
+	"author"		"Valve"
+
+	"hero"			"npc_dota_hero_axe"
+
+	"Title"			"Recommended items for Axe"
+
+	
+
+	"Items"
+
+	{	
+
+		"#DOTA_Item_Build_Starting_Items"
+
+		{
+
+			"item"	"item_pages_buckler"
+
+			"item"	"item_amulet_of_aggression"
+
+			"item"	"item_sanguine_mask"
+
+		}
+
+		"#DOTA_Item_Build_Early_Game"
+
+		{	
+
+			"item"	"item_mithril_armor"
+
+			"item"	"item_dagger_of_escape"
+
+			"item"	"item_fortress_shield"
+
+			"item"	"item_penitent_mail"
+
+			"item"	"item_gem_of_inner_power"
+
+			"item"	"item_plate_of_the_unbreakable
+
+		}
+
+		"#DOTA_Item_Build_Core_Items"
+
+		{
+
+			"item"	"item_royal_guardian"
+
+			"item"	"item_gauntlet_of_might"
+
+			"item"	"item_presence_booster"
+
+			"item"	"item_wrathbearers_robes"
+
+			"item"	"item_armor_of_invasion"
+
+			"item"	"item_everbright_shield"
+
+		}
+
+		"#DOTA_Item_Build_Luxury"
+
+		{
+
+			"item"	"item_ultimate_scepter"
+
+			"item"	"item_lightningbottle"
+
+			"item"	"item_conquerors_helm"
+
+			"item"	"item_rapture"
+
+			"item"	"item_behemoths_heart"
+
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_headchopper"
+			
+			"item"	"item_borealis_cloak"
+
+		}
+
+	}
+
+}

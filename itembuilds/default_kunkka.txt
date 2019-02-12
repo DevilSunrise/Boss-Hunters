@@ -1,0 +1,74 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_kunkka"
+	"Title"			"Recommended Items for Kunkka"
+	
+	"Items"
+	{	
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_broadsword"
+			
+			"item"	"item_gem_of_corruption"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{
+			
+			"item"	"item_iron_rod"
+			
+			"item"	"item_force_boots"
+			
+			"item"	"item_reaping_scythe"
+			
+			"item"	"item_executioners_blade"
+		
+			"item"	"item_visionarys_cutlass"
+			
+			"item"	"item_shadow_blade"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_headchopper"
+			
+			"item"	"item_penumbra"
+			
+			"item"	"item_armor_of_invasion"
+			
+			"item"	"item_legionnaires_dualswords"
+			
+			"item"	"item_antique_battlestaff"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_flashback"
+			
+			"item"	"item_boomstick"
+			
+			"item"	"item_trickster_blade"
+			
+			"item"	"item_soothslayer"
+			
+			"item"	"item_rapture"
+			
+			"item"	"item_guillotine"
+			
+			"item"	"item_lance_of_longinus"
+			
+			"item"	"item_thanatos"
+			
+			"item"	"item_voltas_greathammer"
+		
+		}
+	}
+}

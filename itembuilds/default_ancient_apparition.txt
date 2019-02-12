@@ -1,0 +1,93 @@
+"itembuilds"
+
+{
+
+	"author"		"Valve"
+
+	"hero"			"npc_dota_hero_ancient_apparition"
+
+	"Title"			"Recommended items for Ancient Apparition"
+
+
+
+	"Items"
+
+	{	
+
+		"#DOTA_Item_Build_Starting_Items"
+
+		{
+
+			"item"	"item_sorcerers_staff"
+
+			"item"	"item_ring_of_mana"
+
+			"item"	"item_elven_boots
+
+		}
+
+
+
+		"#DOTA_Item_Build_Early_Game"
+
+		{		
+
+			"item"	"item_spell_refinery"
+
+			"item"	"item_archmages_orb"
+
+			"item"	"item_jar_of_souls"
+
+			"item"	"item_orb_of_essence
+
+			"item"	"item_cultists_veil"
+
+			"item"	"item_focused_lens"
+
+		}
+
+		"#DOTA_Item_Build_Core_Items"
+
+		{
+
+			"item"	"item_force_boots"
+
+			"item"	"item_lazarus_rags"
+
+			"item"	"item_borealis_cloak"
+
+			"item"	"item_arcane_piercer"
+
+			"item"	"item_lucifers_cage"
+
+			"item"	"item_trinity"
+
+		}
+
+		"#DOTA_Item_Build_Luxury"
+
+		{
+
+			"item"	"item_ultimate_scepter"
+
+			"item"	"item_warp_staff"
+
+			"item"	"item_ghost_saber"
+
+			"item"	"item_galactic_hammer_5"
+
+			"item"	"item_dark_wand_5"
+
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_protection_sphere"
+			
+			"item"	"item_gauntlet_of_might"
+
+			"item"	"item_rising_salt"
+
+		}
+
+	}
+
+}

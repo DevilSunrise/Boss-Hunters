@@ -1,0 +1,74 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_lina"
+	"Title"			"Recommended items for Lina"
+	
+	"Items"
+	{	
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_sorcerers_staff"
+			
+			"item"	"item_ring_of_mana"
+		
+			"item"	"item_calming_skull"
+			
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{
+			
+			"item"	"item_war_drum"
+			
+			"item"	"item_archmages_orb"
+			
+			"item"	"item_warlocks_reliquary"
+			
+			"item"	"item_lightningrod"
+			
+			"item"	"item_cultists_veil"
+			
+			"item"	"item_focused_lens
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_lazarus_rags"
+			
+			"item"	"item_lightningbottle"
+			
+			"item"	"item_ferrum_ascensus"
+			
+			"item"	"item_echoing_tambourine"
+			
+			"item"	"item_arcane_piercer"
+			
+			"item"	"item_trinity"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_ultimate_scepter"
+			
+			"item"	"item_lifeweavers_clockwork"
+			
+			"item"	"item_protection_sphere"
+			
+			"item"	"item_dark_wand_5"
+			
+			"item"	"item_galactic_hammer_5"
+			
+			"item"	"item_warp_staff"
+			
+			"item"	"item_lucys_ring"
+			
+			"item"	"item_rising_salt"
+			
+			"item"	"item_lucifers_cage"
+		
+		}
+	}
+}

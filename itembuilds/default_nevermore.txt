@@ -1,0 +1,70 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_nevermore"
+	"Title"			"Recommended items for Nevermore"
+	
+	"Items"
+    {
+       "#DOTA_Item_Build_Starting_Items"
+		{
+			
+			"item"	"item_elven_boots"
+			
+			"item"	"item_gem_of_corruption"
+		
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			
+			"item"	"item_dagger_of_escape"
+			
+			"item"	"item_force_boots"
+			
+			"item"	"item_mirrors_edge"
+			
+			"item"	"item_reaping_scythe"
+		
+			"item"	"item_legionnaires_dualswords"
+		
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			
+			"item"	"item_tricksters_blade"
+			
+			"item"	"item_thanatos"
+			
+			"item"	"item_ferrum_ascensus"
+		
+			"item"	"item_trebuchet"
+		
+			"item"	"item_guillotine"
+			
+			"item"	"item_ultimate_scepter"
+		
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			
+			"item"	"item_boomstick"
+			
+			"item"	"item_armor_of_invasion"
+			
+			"item"	"item_winters_breath"
+			
+			"item"	"item_antique_battlestaff"
+			
+			"item"	"item_lance_of_longinus"
+			
+			"item"	"item_headchopper"
+			
+			"item"	"item_protection_sphere"
+			
+			"item"	"item_penumbra"
+			
+			"item"	"item_trinity"
+		
+		}
+    }
+}
